@@ -5,7 +5,27 @@ A repository for LeetCode problems.
 This is a repository where I will be storing my solutions and explanations for LeetCode problems, while I am learning algorithms and data structures. The solutions will be in Python, JavaScript, and C#.
 
 ## Directory Structure
-leet-code/ ├── problem-name-1/ │ ├── python/ │ │ ├── solution.py │ │ └── test_solution.py │ ├── javascript/ │ │ ├── solution.js │ │ └── test_solution.js │ ├── csharp/ │ │ ├── solution.cs │ │ └── test_solution.cs │ ├── README.md ├── problem-name-2/ │ ├── python/ │ ├── javascript/ │ ├── csharp/ │ └── README.md ├── .github/ │ └── workflows/ │ └── test.yml └── README.md
+leet-code/ 
+├── problem-name-1/ 
+│   ├── python/ 
+│   │   ├── solution.py 
+│   │   └── test_solution.py 
+│   ├── javascript/ 
+│   │   ├── solution.js 
+│   │   └── test_solution.js 
+│   ├── csharp/ 
+│   │   ├── solution.cs 
+│   │   └── test_solution.cs 
+│   ├── README.md 
+├── problem-name-2/ 
+│   ├── python/ 
+│   ├── javascript/ 
+│   ├── csharp/ 
+│   └── README.md 
+├── .github/ 
+│   └── workflows/ 
+│   └── test.yml 
+└── README.md
 
 ## Explanation
 - Each problem is organized into a separate folder (e.g., `problem-name-1/`, `problem-name-2/`).
