@@ -4,7 +4,6 @@ def removeDuplicates(nums: list[int]) -> int:
         if nums[r] != nums[r - 1]:
             nums[l] = nums[r]
             l += 1
-    print(nums)
     return l
 
 print(removeDuplicates([1,1,2]))
